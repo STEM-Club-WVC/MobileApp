@@ -22,7 +22,8 @@ namespace WVCSTEMMobleApp
             else
                 DependencyService.Register<AzureDataStore>();
 
-            MainPage = new MainPage();
+            //MainPage = new MainPage();
+            MainPage = new ArrowControlPage();
         }
 
         protected override void OnStart()

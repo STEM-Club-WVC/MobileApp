@@ -7,10 +7,11 @@
              x:Class="WVCSTEMMobleApp.Views.ArrowControlPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Welcome to Xamarin.Forms! Arrow control"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Image Source="Arrow.jpg"></Image>
+            <Image Source="double_arrow.png" />
+            <Label Text="Test Text"/>            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
