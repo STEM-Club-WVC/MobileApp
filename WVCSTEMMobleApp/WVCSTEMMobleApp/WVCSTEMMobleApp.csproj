@@ -11,10 +11,12 @@
 
   <ItemGroup>
     <None Remove="Arrow.jpg" />
+    <None Remove="double_arrow.png" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="arrow.jpg" />
+    <EmbeddedResource Include="double_arrow.png" />
   </ItemGroup>
 
   <ItemGroup>

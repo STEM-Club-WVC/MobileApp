@@ -10,7 +10,6 @@
             <Label Text="Welcome to Xamarin.Forms! Arrow control"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Image Source="double_arrow.png" />
             <Label Text="Test Text"/>            
         </StackLayout>
     </ContentPage.Content>
